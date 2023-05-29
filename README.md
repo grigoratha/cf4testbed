@@ -1,4 +1,4 @@
 # cf4testbed
 Coding Factory 4 Testbed
-** Coding Factory  **
+**Coding Factory**
 Local edit of readme.md
